@@ -54,6 +54,10 @@ pip3 install -r requirements.txt
 python3 webkiller.py
 ```
 
+## Note
+
+read requirements.txt
+
 ## ScreenShot
 
 ![webkiller](https://s4.uupload.ir/files/webkiller_6fcf.png)
