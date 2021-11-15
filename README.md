@@ -56,4 +56,4 @@ python3 webkiller.py
 
 ## ScreenShot
 
-![webkiller](https://pasteboard.co/gXVtl3ruAsa4.png)
+![webkiller](https://s4.uupload.ir/files/webkiller_6fcf.png)
