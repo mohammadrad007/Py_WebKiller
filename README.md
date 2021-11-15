@@ -48,6 +48,7 @@ Tool Information Gathering Write With Python.
 ## Install
 
 ```bash
+git clone https://github.com/mohammadrad007/Py_WebKiller.git
 cd webkiller
 pip3 install -r requirements.txt
 python3 webkiller.py
@@ -55,4 +56,4 @@ python3 webkiller.py
 
 ## ScreenShot
 
-![webkiller](http://uupload.ir/files/otmb_webkiller.jpg)
+![webkiller](https://pasteboard.co/gXVtl3ruAsa4.png)
